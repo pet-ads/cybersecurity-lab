@@ -1,4 +1,5 @@
 # OWASP
+[OWASP](https://owasp.org/Top10/2025/)
 
 O **Open Worldwide Application Security Project (OWASP)** é uma comunidade aberta e sem fins lucrativos dedicada a capacitar organizações para desenvolver e manter aplicações e APIs confiáveis.
 
