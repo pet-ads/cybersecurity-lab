@@ -169,7 +169,7 @@ Nova categoria introduzida na OWASP 2025, focada em falhas relacionadas ao trata
 
 ---
 
-## 4. Metodologia e Prevenção
+## Metodologia e Prevenção
 
 A OWASP utiliza o **Risk Score**, uma fórmula que pondera:
 
