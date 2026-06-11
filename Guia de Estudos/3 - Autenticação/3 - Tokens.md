@@ -189,6 +189,9 @@ Segurança em aplicações web não depende de um único recurso, mas da combina
 
 Quanto mais camadas (defense in depth), mais difícil se torna explorar vulnerabilidades em um sistema.
 
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/4%20-%20Vulnerabilidade%20Cr%C3%ADticas/1%20-%20SQL%20Injection.md)
 
 ## LINKS EXTRAS
 

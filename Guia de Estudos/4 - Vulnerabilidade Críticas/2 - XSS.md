@@ -120,6 +120,10 @@ Em sistemas modernos, a segurança contra XSS depende de uma combinação de boa
 
 No fim, qualquer dado vindo do usuário deve ser tratado como não confiável até que seja explicitamente validado e seguro para uso.
 
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/4%20-%20Vulnerabilidade%20Cr%C3%ADticas/3%20-%20CSRF.md)
+
 ## LINKS EXTRAS
 
 -[XSS Attack (Como Funciona e Como Prevenir Ataques) // Dicionário do Programador](https://youtu.be/2LYPyUk-L0k?si=KLkZ8igS_g8SoOWz)
