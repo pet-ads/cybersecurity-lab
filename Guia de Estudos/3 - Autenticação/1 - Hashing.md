@@ -138,7 +138,7 @@ Hoje, recomenda-se o uso de algoritmos como:
 
 <br>
 
-[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/3%20-%20Autentica%C3%A7%C3%A3o/1%20-%20Hashing.md)
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/3%20-%20Autentica%C3%A7%C3%A3o/2%20-%20Sess%C3%B5es.md)
 
 ## LINKS EXTRAS
 
