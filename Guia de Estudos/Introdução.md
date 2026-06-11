@@ -58,3 +58,12 @@ Contudo, a eficácia da cibersegurança não depende apenas de tecnologia. O **f
 - **Phishing**
 
 exploram falhas de comportamento dos usuários.
+
+## LINKS PARA ESTUDOS
+-[Básico segurança da informação - tipos de ataque](https://youtu.be/Gfh2bxe3hGU?si=Jtbx8vTfagjAA7yE)
+
+-[Conceito de vulnerabilidade](https://www.welivesecurity.com/pt/seguranca-para-empresas/catalogo-essencial-de-vulnerabilidades-conceitos-chave-e-estrategias-de-seguranca/)
+
+-[Conceito de vulnerabilidade](https://virtuaworks.com.br/vulnerabilidades-riscos-e-ameacas-cybersecurity/)
+
+-[Conceito de vulnerabilidade](https://youtu.be/Gfh2bxe3hGU?si=Jtbx8vTfagjAA7yE)
