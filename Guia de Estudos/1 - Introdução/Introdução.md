@@ -59,6 +59,9 @@ Contudo, a eficácia da cibersegurança não depende apenas de tecnologia. O **f
 
 exploram falhas de comportamento dos usuários.
 
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/2%20-%20TOP%2010%20OWASP/OWASP.md)
 
 ## LINKS PARA ESTUDOS
 -[Básico segurança da informação - tipos de ataque](https://youtu.be/Gfh2bxe3hGU?si=Jtbx8vTfagjAA7yE)

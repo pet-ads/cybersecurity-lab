@@ -261,6 +261,10 @@ Mais do que corrigir vulnerabilidades isoladas, o foco atual da segurança deve 
 
 Esse cenário reforça que segurança não é apenas uma etapa do desenvolvimento, mas parte essencial de todo o ciclo de vida do software.
 
+<br>
+
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/3%20-%20Autentica%C3%A7%C3%A3o/1%20-%20Hashing.md)
+
 ## LINKS EXTRA
 -[texto do link]( https://youtu.be/WYSXGax0r5w?si=cKwnVQ9xLjinM5v0)
 
