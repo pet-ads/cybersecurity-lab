@@ -59,6 +59,7 @@ Contudo, a eficácia da cibersegurança não depende apenas de tecnologia. O **f
 
 exploram falhas de comportamento dos usuários.
 
+
 ## LINKS PARA ESTUDOS
 -[Básico segurança da informação - tipos de ataque](https://youtu.be/Gfh2bxe3hGU?si=Jtbx8vTfagjAA7yE)
 
