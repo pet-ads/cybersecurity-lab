@@ -260,3 +260,8 @@ Mais do que corrigir vulnerabilidades isoladas, o foco atual da segurança deve 
 - Implementação consistente de controles de acesso e autenticação
 
 Esse cenário reforça que segurança não é apenas uma etapa do desenvolvimento, mas parte essencial de todo o ciclo de vida do software.
+
+## LINKS EXTRA
+-[texto do link]( https://youtu.be/WYSXGax0r5w?si=cKwnVQ9xLjinM5v0)
+
+-[TOP 10 Ameaçãs de Segurança em Aplicações Web](https://www.youtube.com/watch?v=OzBy8nYLY-I)
