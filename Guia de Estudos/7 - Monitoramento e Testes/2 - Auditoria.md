@@ -307,7 +307,7 @@ A **Auditoria de Cibersegurança** é uma atividade essencial para garantir a pr
 
 <br>
 
-[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/4%20-%20Vulnerabilidade%20Cr%C3%ADticas/3%20-%20CSRF.md)
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/7%20-%20Monitoramento%20e%20Testes/3%20-%20Testes%20de%20seguran%C3%A7a.md)
 
 ## LINKS EXTRAS
 

@@ -538,7 +538,7 @@ A segurança não deve ser vista como um produto ou uma configuração única, m
 
 <br>
 
-[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/4%20-%20Vulnerabilidade%20Cr%C3%ADticas/3%20-%20CSRF.md)
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/blob/main/Guia%20de%20Estudos/6%20-%20Infraestrutura/1%20-%20HTTPS_TLS.md)
 
 
 ## LINKS EXTRAS
