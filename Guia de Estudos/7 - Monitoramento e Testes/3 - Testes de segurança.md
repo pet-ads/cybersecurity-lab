@@ -408,7 +408,7 @@ Quando utilizado de forma ética e autorizada, o ZAP contribui significativament
 
 <br>
 
-[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab/tree/main/Guia%20de%20Estudos/1%20-%20Introdu%C3%A7%C3%A3o)
+[![➡ Próxima Seção](https://img.shields.io/badge/-➡_Próxima_Seção-blue?style=for-the-badge&color=007BFF)](https://github.com/pet-ads/cybersecurity-lab.git)
 
 ## LINKS EXTRAS
 
